@@ -1,0 +1,19 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+ h1 {
+  color: darkblue;
+ }
+ h2 {
+   color: blue;
+   font-size: 150%;
+ }
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 100%;
